@@ -1,0 +1,9 @@
+.container {
+    max-width: 46rem;
+    margin: -1.6875rem auto 2rem;
+    padding: 0 1rem;
+  }
+  
+  .taskList {
+    height: calc(100vh - 380px);
+  }
